@@ -1,3 +1,4 @@
+""" modificado """
 max = 100
 edad = int (input("Ingrese su edad: "))
 
